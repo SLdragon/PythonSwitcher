@@ -1,0 +1,11 @@
+c:\users\turenlong\documents\visual studio 2015\Projects\环境变量修改\环境变量修改\obj\Debug\PythonSwitch.Form1.resources
+c:\users\turenlong\documents\visual studio 2015\Projects\环境变量修改\环境变量修改\obj\Debug\PythonSwitch.csproj.GenerateResource.Cache
+C:\Users\turenlong\Documents\visual studio 2015\Projects\环境变量修改\环境变量修改\bin\Debug\PythonSwitch.exe.config
+C:\Users\turenlong\Documents\visual studio 2015\Projects\环境变量修改\环境变量修改\bin\Debug\PythonSwitch.exe
+C:\Users\turenlong\Documents\visual studio 2015\Projects\环境变量修改\环境变量修改\bin\Debug\PythonSwitch.pdb
+C:\Users\turenlong\Documents\visual studio 2015\Projects\环境变量修改\环境变量修改\obj\Debug\PythonSwitch.Properties.Resources.resources
+C:\Users\turenlong\Documents\visual studio 2015\Projects\环境变量修改\环境变量修改\obj\Debug\PythonSwitch.exe
+C:\Users\turenlong\Documents\visual studio 2015\Projects\环境变量修改\环境变量修改\obj\Debug\PythonSwitch.pdb
+C:\Users\turenlong\Documents\visual studio 2015\Projects\环境变量修改\PythonSwitch\bin\Debug\PythonSwitch.exe.config
+C:\Users\turenlong\Documents\visual studio 2015\Projects\环境变量修改\PythonSwitch\obj\Debug\PythonSwitch.exe
+C:\Users\turenlong\Documents\visual studio 2015\Projects\环境变量修改\PythonSwitch\obj\Debug\PythonSwitch.pdb

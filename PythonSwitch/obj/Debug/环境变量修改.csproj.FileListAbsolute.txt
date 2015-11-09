@@ -1,0 +1,9 @@
+c:\users\turenlong\documents\visual studio 2015\Projects\环境变量修改\环境变量修改\bin\Debug\环境变量修改.exe.config
+c:\users\turenlong\documents\visual studio 2015\Projects\环境变量修改\环境变量修改\bin\Debug\环境变量修改.exe
+c:\users\turenlong\documents\visual studio 2015\Projects\环境变量修改\环境变量修改\bin\Debug\环境变量修改.pdb
+c:\users\turenlong\documents\visual studio 2015\Projects\环境变量修改\环境变量修改\obj\Debug\环境变量修改.csprojResolveAssemblyReference.cache
+c:\users\turenlong\documents\visual studio 2015\Projects\环境变量修改\环境变量修改\obj\Debug\环境变量修改.Form1.resources
+c:\users\turenlong\documents\visual studio 2015\Projects\环境变量修改\环境变量修改\obj\Debug\环境变量修改.Properties.Resources.resources
+c:\users\turenlong\documents\visual studio 2015\Projects\环境变量修改\环境变量修改\obj\Debug\环境变量修改.csproj.GenerateResource.Cache
+c:\users\turenlong\documents\visual studio 2015\Projects\环境变量修改\环境变量修改\obj\Debug\环境变量修改.exe
+c:\users\turenlong\documents\visual studio 2015\Projects\环境变量修改\环境变量修改\obj\Debug\环境变量修改.pdb
